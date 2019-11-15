@@ -1,0 +1,11 @@
+/Users/davidcornish/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro
+/Users/davidcornish/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.deps.json
+/Users/davidcornish/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.runtimeconfig.json
+/Users/davidcornish/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.runtimeconfig.dev.json
+/Users/davidcornish/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.dll
+/Users/davidcornish/workspace/ListIntro/bin/Debug/netcoreapp3.0/ListIntro.pdb
+/Users/davidcornish/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.csprojAssemblyReference.cache
+/Users/davidcornish/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.AssemblyInfoInputs.cache
+/Users/davidcornish/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.AssemblyInfo.cs
+/Users/davidcornish/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.dll
+/Users/davidcornish/workspace/ListIntro/obj/Debug/netcoreapp3.0/ListIntro.pdb
